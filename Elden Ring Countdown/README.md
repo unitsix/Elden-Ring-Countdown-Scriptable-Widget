@@ -1,0 +1,1 @@
+Store images here to add your own backgrounds to the widget.
