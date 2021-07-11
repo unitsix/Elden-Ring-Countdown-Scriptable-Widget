@@ -1,6 +1,10 @@
 # Elden-Ring-Countdown-Scriptable-Widget
 This is a simple Elden Ring countdown widget for [Scriptable](https://scriptable.app). 
 
+<p align="center">
+  <img src="https://github.com/unitsix/Elden-Ring-Countdown-Scriptable-Widget/blob/main/Cover%20Image.jpg?raw=true" alt="Cover image"/>
+</p>
+
 ## Instal
 
 [Download](https://github.com/unitsix/Elden-Ring-Countdown-Scriptable-Widget/archive/refs/heads/main.zip) and extract the content of this repository into the Scriptable folder located in your iCloud Drive.
