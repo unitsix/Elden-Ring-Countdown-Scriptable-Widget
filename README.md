@@ -2,7 +2,7 @@
 This is a simple Elden Ring countdown widget for [Scriptable](https://scriptable.app). 
 
 <p align="center">
-  <img src="https://github.com/unitsix/Elden-Ring-Countdown-Scriptable-Widget/blob/main/Cover%20Image.jpg?raw=true" alt="Cover image" style="max-width: 300px;"/>
+  <img src="https://github.com/unitsix/Elden-Ring-Countdown-Scriptable-Widget/blob/main/Cover%20Image.jpg?raw=true" alt="Cover image"/>
 </p>
 
 ## Instal
