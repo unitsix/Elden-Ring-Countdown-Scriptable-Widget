@@ -5,7 +5,7 @@
 // -- config --
 
 // The time and date we become tarnished
-const countDownDate = new Date("Jan 23, 2022 0:00:00").getTime();
+const countDownDate = new Date("Feb 25, 2022 0:00:00").getTime();
 
 // Want to see the title text within the widget
 const isTitleTextEnabled = true;
@@ -170,7 +170,7 @@ async function getRandomImage(storedImageNames) {
 
 function getLogoImage() {
   const imgData = getLogoImageDataString();
-  return Image.fromData(imgData);
+  return Image.fromData(Data.fromBase64String(imgData));
 }
 
 function getTarnishedImageDataString() {
